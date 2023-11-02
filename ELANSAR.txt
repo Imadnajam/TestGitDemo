@@ -1,0 +1,3 @@
+La commande git clone est utilisée pour créer une copie 
+locale d'un dépôt 
+distant situé sur une plateforme d'hébergement comme GitHub.
